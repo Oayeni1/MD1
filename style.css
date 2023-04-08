@@ -1,0 +1,108 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(210, 227, 244);
+    font-family: Tahoma;
+}
+
+.sub {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    background-color: white;
+    margin-left: 23rem;
+}
+
+.sub1 {
+    position: relative;
+    background-image: linear-gradient(rgba(185, 205, 248, 0.862),rgba(131, 118, 181, 0.621)), url('Lagos-food-markets.jpg');
+    background-image: no-repeat;
+}
+
+.reg {
+    position: relative;
+    text-align: center;
+    margin-bottom: 3rem;
+    padding-top: 3rem;
+    color: #ffffff;
+}
+.fo {
+    position: relative;
+    display: flex;
+    gap: 1.5rem;
+    margin-left: 12rem;
+    width: 10rem;
+    height: 4rem;
+}
+input {
+    position: relative;
+    width: 12rem;
+    height: 1.5rem;
+    border: solid;
+    border-color: rgb(236, 240, 242);
+    color: rgb(240, 243, 243);
+    border-radius: 0.5rem;
+}
+label{
+    margin-left: 0.7rem;
+    font-weight: 600;
+    color: #fafcfb;
+}
+.but {
+    color: rgb(255, 255, 255);
+    background-color: rgb(10, 31, 49);
+    margin-left: 19rem;
+    width: 12rem;
+    height: 2rem;
+    font-weight: 600;
+    margin-bottom: 3rem;
+    border-radius: 0.5rem;
+    border: none;
+}
+
+.sub2 {
+    position: relative;
+    margin-top: 1rem;
+    background-color: rgb(153, 233, 233);
+    /*text-align: center;*/
+    margin-bottom: 3rem;
+    padding-top: 3rem;
+    width: 30rem;
+    margin-left: 8.5rem;
+}
+.si {
+    position: relative;
+    text-align: center;
+    font-size: 1.2rem;
+}
+.fo2 {
+    display: flex;
+    color: rgb(42, 44, 43);
+    margin-top: 2rem;
+}
+.bo1 {
+    width: 28rem;
+    background-color: rgb(229, 248, 248);
+    margin-left: 0.5rem;
+}
+.las {
+    color: rgb(255, 255, 255);
+    background-color: rgb(12, 35, 55);
+    margin-left: 11rem;
+    width: 8rem;
+    height: 2rem;
+    border: none;
+    border-radius: 0.5rem;
+    font-weight: 600;
+    margin-bottom: 3rem;
+    margin-top: 1rem;
+}
+
+.copy {
+    position: relative;
+    color: rgb(40, 214, 191);
+    margin-top: -2rem;
+    margin-left: 32rem;
+
+}
